@@ -1,9 +1,0 @@
-chromadb>=0.4.0
-sentence-transformers>=2.2.2
-duckduckgo-search>=2.6.2
-streamlit>=1.20.0
-requests>=2.28
-tqdm
-pypdf>=3.8.1        # for reading PDFs
-python-docx>=0.8.11 # optional: read .docx
-pandas>=2.0         # for reading CSV dataset
